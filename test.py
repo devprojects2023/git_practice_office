@@ -1,3 +1,4 @@
+# This is a simple user_input function
 name = ["Dev", "Avik", "Raj"]
 def myname():
     if user_input in name:
